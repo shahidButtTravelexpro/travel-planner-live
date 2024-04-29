@@ -1,3 +1,21 @@
+.planner-header {
+  min-height: 400px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.planner-header p{
+  text-align: center;
+}
 .search-section {
   background-color: white;
   border-radius: 8px;
@@ -7,9 +25,9 @@
 .search-input {
   border: 1px solid rgba(5, 15, 21, 0.2) !important;
   color: black;
-  background-color: #F7FAFF !important;
+  background-color: #f7faff !important;
 }
-.search-btn{
+.search-btn {
   padding: 8px 10px;
 }
 .intro-img-con {
