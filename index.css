@@ -1,0 +1,221 @@
+.search-section {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px,
+    rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+.search-input {
+  border: 1px solid rgba(5, 15, 21, 0.2) !important;
+  color: black;
+  background-color: #F7FAFF !important;
+}
+.search-btn{
+  padding: 8px 10px;
+}
+.intro-img-con {
+  padding: 12px 6px;
+}
+.intro-text-con h2 {
+  font-size: 36px;
+}
+.intro-text-con p {
+  color: #49556d;
+}
+.intro-text-con div:nth-child(2) p strong {
+  color: black;
+}
+.intro-text-con a {
+  text-decoration: none;
+}
+.religion-card-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white !important;
+  padding: 6px 0px;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  min-width: 120px;
+  margin: 5px;
+}
+.religion-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#flagImg {
+  padding: 10px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 36px;
+  right: 22px !important;
+}
+.slide-container {
+  /* max-width: 1120px; */
+  width: 100%;
+  padding: 40px 0;
+}
+.slide-content {
+  margin: 0 40px;
+  overflow: hidden;
+  border-radius: 25px;
+}
+.card {
+  border-radius: 25px;
+  background-color: #fff;
+  border: none;
+}
+.image-content,
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-content {
+  padding: 0 0;
+  max-height: 265px;
+  border-radius: 15px 15px 15px 15px;
+  overflow: hidden;
+  position: relative;
+}
+.card-image {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.add-item-checkbox {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+.card-content {
+  padding: 10px 0 0 0;
+}
+.title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+  align-self: flex-start;
+}
+.distance,
+.description {
+  font-size: 14px;
+  color: #707070;
+  text-align: left;
+  align-self: flex-start;
+}
+.distance {
+  padding: 0px;
+  margin: 0px;
+  padding-bottom: 8px;
+}
+.description a {
+  text-decoration: none;
+}
+
+.swiper-navBtn {
+  color: #6e93f7;
+  transition: color 0.3s ease;
+}
+.swiper-navBtn:hover {
+  color: #4070f4;
+}
+.swiper-navBtn::before,
+.swiper-navBtn::after {
+  font-size: 35px;
+}
+.swiper-button-next {
+  right: 0;
+}
+.swiper-button-prev {
+  left: 0;
+}
+.swiper-pagination-bullet {
+  background-color: #6e93f7;
+  opacity: 1;
+}
+.swiper-pagination-bullet-active {
+  background-color: #4070f4;
+}
+
+@media screen and (max-width: 768px) {
+  .slide-content {
+    margin: 0 10px;
+  }
+  .swiper-navBtn {
+    display: none;
+  }
+}
+
+/* to do section */
+
+.to-do-section {
+  border-radius: 12px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.to-do-btn-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.to-do-btn {
+  background-color: rgba(0, 104, 239, 0.1);
+  border-radius: 15px;
+  padding: 4px 12px;
+  color: #384255;
+  transition-duration: 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.to-do-btn:hover {
+  background-color: #b0d0fa;
+}
+.to-do-btn img {
+  margin-right: 2px;
+}
+.card-body {
+  padding: 12px 0px;
+}
+.to-do-input,
+.search-input {
+  width: 100%;
+  background-color: #f7f8f9;
+  border: unset;
+  padding: 10px 12px;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #49556d;
+  font-weight: 400;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  transition-duration: 0.3s;
+}
+.to-do-input:focus,
+.search-input:focus {
+  border: unset;
+  outline: unset;
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.list-group-item {
+  border: unset;
+  border-radius: 5px;
+  background-color: #f7f8f9;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-size: 14px;
+  color: #49556d;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+.list-group-item img {
+  cursor: pointer;
+}
