@@ -4,9 +4,64 @@ body {
 .tour-detail-section .service-section li {
   /* text-decoration: underline; */
 }
+#heading {
+  font-size : clamp(1.5rem, 2vw, 5rem);
+}
+#img-gallery-con {
+  overflow: hidden;
+}
+.main-img {
+  cursor: pointer;
+  transition-duration: 0.3s;
+  height: 412px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+.secondary-img-1,
+.secondary-img-2 {
+  cursor: pointer;
+  transition-duration: 0.3s;
+  height: 204px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.main-img:hover,
+.secondary-img-1:hover,
+.secondary-img-2:hover {
+  filter: brightness(1.1);
+}
+.secondary-img-1 {
+  border-top-right-radius: 12px;
+}
+.secondary-img-2 {
+  border-bottom-right-radius: 12px;
+}
+.additional-images-label{
+  position: absolute;
+  bottom: 16px;
+  right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  padding: 10px 16px;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
 .reserve-spot-section {
   border: 1px solid #e0e0e0;
   border-radius: 12px;
+  height: fit-content;
+  position: sticky;
+  top: 0;
 }
 #carouselExampleControls img {
   height: 350px;
@@ -14,13 +69,13 @@ body {
   object-position: center;
 }
 .reserve-label {
-  width: 100%;
-  border: 2px solid #000;
+  width: 90%;
+  border: 2px solid #e0e0e0;
   border-radius: 12px;
   padding: 16px;
   cursor: pointer;
   position: relative;
-  margin: 6px 0px;
+  margin: 6px auto;
 }
 .reserve-label-selected {
   background-color: white;
@@ -42,4 +97,7 @@ body {
 }
 .reserve-label-selected .checked {
   background-color: black;
+}
+.checked-border{
+  border: 2px solid #000;
 }
