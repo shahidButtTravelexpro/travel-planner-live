@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    /* font-family: "Manrope", system-ui;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal; */
+}
+
+/* blog hero section */
+.blog-hero-section {
+    background-image: url("../images/blog-hero-image.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.blog-hero-section h1,
+.blog-category-heading {
+    font-size: 40px;
+    font-family: "Inter", sans-serif;
+}
+
+.blog-hero-section ul li {
+    font-size: 16px;
+    font-weight: lighter;
+    list-style-type: none;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 8px;
+
+}
+
+
+/* blog category section */
+
+.blog-category-section .card-wrapper div div {
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+    border-radius: 5px;
+    min-height: 105px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
+
+.blog-category-section .card-wrapper div div:hover {
+    transform: scale(0.98);
+}
+
+.blog-category-section .card-wrapper div:nth-child(1) div {
+    background-image: url("../images/blog-category-global-wonders.png");
+}
+
+.blog-category-section .card-wrapper div:nth-child(2) div {
+    background-image: url("../images/blog-category-travel-experience.png");
+}
+
+.blog-category-section .card-wrapper div:nth-child(3) div {
+    background-image: url("../images/blog-category-travel-tips.png");
+}
+
+.blog-category-section .card-wrapper div:nth-child(4) div {
+    background-image: url("../images/blog-category-spirtual-travel.png");
+}
+
+.card-content h5 {
+    color: white;
+    text-align: center;
+    padding: 12px 24px;
+    margin: auto;
+}
+
+.slide-content {
+    border-radius: unset;
+}
+
+/* featured post section */
+.featured-post-section h2,
+.travel-tech-section h2 {
+    white-space: nowrap;
+}
+
+.featured-post-section hr,
+.travel-tech-section hr {
+    width: 100%;
+    border: 1px solid;
+}
+
+.blog-post-img {
+    height: 366px;
+    object-fit: cover;
+    object-position: bottom center;
+    border-radius: 10px;
+}
+
+.featured-post-section ul li,
+.card ul li {
+    list-style-type: none;
+    color: #888888;
+    font-weight: light;
+
+}
+
+.card-title {
+    font-family: "Manrope", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.card-text {
+    color: #888888;
+    font-size: 16px;
+    font-family: "Manrope", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.card-link {
+    text-decoration: none;
+    color: #1E2C6A;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.blog-card-img,
+.blog-card-img-recent,
+.blog-card-img-popular {
+    height: 240px;
+    object-fit: cover;
+    object-position: bottom center;
+    border-radius: 10px;
+}
+
+.blog-card-img-recent {
+    height: 300px;
+}
+
+.blog-card-img-popular {
+    height: 120px;
+    width: 104px;
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+.btn {
+    background: #1E2C6A;
+    color: white;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-size: 14px;
+    padding: 6px 16px;
+    font-weight: light;
+}
+
+
+.btn:hover {
+    border: 1px solid #1E2C6A;
+}
+
+.search-blog-form input {
+    background: #F6F6F6;
+    border: none;
+    padding: 16px 0px 16px 20px;
+    border-radius: 10px;
+    width: 100%;
+
+}
+
+.search-blog-form button {
+    padding: 16px 20px;
+    border-radius: 10px;
+    position: absolute;
+    right: 0;
+
+}
+
+.sub-section-heading {
+    background-color: #F6F6F6;
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin: 0px 0px 14px 0px;
+
+}
+
+.sub-section-heading h5 {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0px;
+    margin: 0px;
+}
+
+.blog-most-popular div:nth-child(2) div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.blog-most-popular div:nth-child(2) div h5 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.blog-tag-section ul li {
+    list-style-type: none;
+    background-color: #F6F6F6;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 10px;
+    color: #333333;
+
+}
+
+.blog-contact-section {
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    padding: 36px 0px;
+
+}
