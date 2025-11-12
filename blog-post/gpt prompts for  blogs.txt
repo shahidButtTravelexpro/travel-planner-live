@@ -1,0 +1,85 @@
+ 
+1. Read The Whole Blog
+2. Add in 100 wonders list
+3. Add on google search console
+4. Share in group
+
+
+
+PROMPT
+=====
+con you convert the following blog in some other format (tags, headings etc) that I will provide you?
+
+convert the previous one into like this one, make sure to use the same tags with same classes and follow the same structure, put placeholder values for map, youtube, where to stay links, souvenirs image and link and i will put the values myself later
+
+
+<h1>Edinburgh Castle: Explore Scotland&rsquo;s Iconic Landmark, Hotels, and Travel Tips</h1>
+<p>Edinburgh Castle is a huge ancient castle on a high rocky hill in Scotland. This place used to be a home for Kings, and a fortress for soldiers, and now it's a fascinating place for tourists from all around the world to visit and learn about Scotland's past. This fortress was built on top of an extinct volcano which was likely active about 340 million years ago and its boulder known as Castle Rock stands 120 meters above sea level.</p>
+<p>Edinburgh Castle stands as a UNESCO World Heritage Site and welcomes visitors from around the world to explore and see amazing views of the city from up there!</p>
+<p style="text-align: center;"><iframe class="blog-section-iframe" title="YouTube video player" src="//www.youtube.com/embed/d7w_iUGQUew?si=TXjh7RnTtfEiVqjx" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2 class="blog-post-h2">History of Scotland's Edinburgh Castle</h2>
+<p>Edinburgh Castle was built way back in the 12th century by a Scottish king named David I, and since then, it's seen a lot! Many kings and queens lived there, battles were fought, and many important events took place within its walls.</p>
+<p>One famous queen, Mary, gave birth to her son there, later he became King James VI of Scotland and King James I of England. This Castle has survived a lot through centuries of history and Today, it stands as a great place for tourists to visit, offering stunning views of the city and a chance to explore its ancient buildings and treasures. The castle has seen sieges, battles, and changes in ownership, and yet it has remained a symbol of Scottish resilience.</p>
+<h2 class="blog-post-h2">Location Map</h2>
+<p><iframe class="blog-section-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d71489.30843940943!2d-3.282485065767035!3d55.94866321903338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c79a2099c0f7%3A0x469a1eebe54c0a58!2sEdinburgh%20Castle!5e0!3m2!1sen!2s!4v1709848662275!5m2!1sen!2s" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2 class="blog-post-h2">Where to stay?</h2>
+<p>When visiting Edinburgh Castle, it's advantageous to stay in areas that offer convenience, proximity to attractions, and a vibrant atmosphere. Here are some recommended areas to consider:</p>
+<ol class="blog-ol">
+<li><a href="hotel?checkin=2024-12-20&amp;checkout=2024-12-27&amp;address=(BED)Bushmills%20Inn%20Hotel,%20Newcastle%20of%20Northern%20Ireland,%20United%20Kingdom&amp;adult=2&amp;children=0&amp;latitude=55.207206773751000&amp;longitude=-6.523955476841400&amp;hotelcode=141041&amp;roomdata=%5B%7B%22rooms%22%3A1%2C%22adults%22%3A%222%22%2C%22children%22%3A%220%22%7D%5D"> <strong>Old Town</strong> <img style="width: 24px; height: 24px;" src="assets/img/apple-touch-icon.png" /> </a>
+<ol class="blog-ol" style="list-style-type: none;">
+<li>Staying in the Old Town puts you right at the heart of Edinburgh's historic charm. You'll be surrounded by cobbled streets, medieval architecture, and iconic landmarks like the Royal Mile and the Grassmarket. This area is ideal for immersing yourself in Edinburgh's rich history and culture, with easy access to the castle and other attractions.</li>
+</ol>
+</li>
+<li><a href="hotel?checkin=2024-12-20&amp;checkout=2024-12-27&amp;address=(CITY)Portrush,%20United%20Kingdom&amp;adult=2&amp;children=0&amp;latitude=55.197802000000000&amp;longitude=-6.654526000000000&amp;hotelcode=773352&amp;roomdata=%5B%7B%22rooms%22%3A1%2C%22adults%22%3A%222%22%2C%22children%22%3A%220%22%7D%5D"> <strong>Grassmarket</strong> <img style="width: 24px; height: 24px;" src="assets/img/apple-touch-icon.png" /> </a>
+<ol class="blog-ol" style="list-style-type: none;">
+<li>Grassmarket is a lively and picturesque area filled with pubs, restaurants, and boutique shops. It offers a vibrant atmosphere day and night, with street performers and historical tales adding to its charm. Staying here provides easy access to the castle and allows you to explore the surrounding area's eclectic mix of shops and eateries.</li>
+</ol>
+</li>
+<li><a href="hotel?checkin=2025-01-01&amp;checkout=2025-01-03&amp;address=(CITY)Ballycastle,%20United%20Kingdom&amp;adult=2&amp;children=0&amp;latitude=55.2044&amp;longitude=%20-6.2533&amp;hotelcode=785846&amp;roomdata=%5B%7B%22rooms%22%3A1%2C%22adults%22%3A%222%22%2C%22children%22%3A%220%22%7D%5D"> <strong>New Town</strong> <img style="width: 24px; height: 24px;" src="assets/img/apple-touch-icon.png" /> </a>
+<ol class="blog-ol" style="list-style-type: none;">
+<li>New Town offers a more spacious and elegant environment compared to the bustling streets of the Old Town. Here, you'll find grand Georgian buildings, upscale boutiques, and trendy cafes. While it's a bit farther from the castle, New Town's sophisticated ambiance and proximity to Princes Street Gardens make it an attractive option for those seeking a quieter retreat after a day of exploration.</li>
+</ol>
+</li>
+<li><a href="hotel?checkin=2025-01-01&amp;checkout=2025-01-03&amp;address=(CITY)Coleraine,%20United%20Kingdom&amp;adult=2&amp;children=0&amp;latitude=55.125990000000000&amp;longitude=-6.655406000000000&amp;hotelcode=933017&amp;roomdata=%5B%7B%22rooms%22%3A1%2C%22adults%22%3A%222%22%2C%22children%22%3A%220%22%7D%5D"> <strong>West End</strong> <img style="width: 24px; height: 24px;" src="assets/img/apple-touch-icon.png" /> </a>
+<ol class="blog-ol" style="list-style-type: none;">
+<li>The West End strikes a balance between historical charm and modern amenities. It's home to cultural institutions like the Scottish National Gallery and the Usher Hall, as well as trendy bars and restaurants. Staying here offers easy access to the castle and a more relaxed atmosphere compared to the bustling Old Town.</li>
+</ol>
+</li>
+<li><a href="hotel?checkin=2025-01-01&amp;checkout=2025-01-03&amp;address=(CITY)Belfast%20Area,%20United%20Kingdom&amp;adult=2&amp;children=0&amp;latitude=55.233399868011000&amp;longitude=-6.513360030949100&amp;hotelcode=871363&amp;roomdata=%5B%7B%22rooms%22%3A1%2C%22adults%22%3A%222%22%2C%22children%22%3A%220%22%7D%5D"> <strong>Haymarket</strong> <img style="width: 24px; height: 24px;" src="assets/img/apple-touch-icon.png" /> </a>
+<ol class="blog-ol" style="list-style-type: none;">
+<li>Haymarket is a bustling area with excellent transport links, making it convenient for exploring Edinburgh and beyond. It's known for its diverse dining options, vibrant nightlife, and proximity to attractions like the Scottish National Gallery of Modern Art. While it's a bit farther from the castle, Haymarket offers a dynamic urban experience with easy access to public transportation.</li>
+</ol>
+</li>
+</ol>
+<p>Ultimately, the best area to stay depends on your preferences for atmosphere, convenience, and budget. Each of these areas offers its unique appeal and provides a memorable base for experiencing the wonders of Edinburgh Castle and the city beyond.</p>
+<h2 class="blog-post-h2">Recommendations:</h2>
+<ol class="blog-ol">
+<li>Consider purchasing an Edinburgh City Pass or Historic Scotland Explorer Pass, which may include discounted admission to Edinburgh Castle along with other attractions.</li>
+<li>Wear comfortable walking shoes, as there's a steep uphill climb to reach the castle entrance.</li>
+<li>Check the castle's opening hours and any COVID-19 restrictions or requirements before your visit.</li>
+<li>Take some time to explore the surrounding area, including the Royal Mile and nearby attractions such as St. Giles' Cathedral and the Palace of Holyroodhouse.</li>
+<li>Bring layers, as Edinburgh's weather can be unpredictable, especially if you're planning to explore the castle's outdoor areas.</li>
+<li>Arrive early to avoid crowds, especially during peak tourist seasons.</li>
+<li>Consider joining a guided tour to learn more about the castle's history and significance.</li>
+</ol>
+<h2 class="blog-post-h2">Visa Requirements</h2>
+<p>To visit the United Kingdom, U.S. citizens do not require a visa. However, if you are outside the USA you may need a visa to enter the country, depending on the nationality and duration of your visit. However, it's always a good idea to consult before planning, <a href="apply-for-visa" target="_blank" rel="noopener">click here to check if you need a visa. </a></p>
+<div class="mb-2 mb-md-4" data-vi-partner-id="U00405398" data-vi-widget-ref="W-9632ac16-f7f4-463f-9df2-f271b001e090">&nbsp;</div>
+<p>
+<script src="https://www.viator.com/orion/partner/widget.js" async=""></script>
+</p>
+<h2 class="blog-post-h2">Currency</h2>
+<p>The currency used is the British Pound Sterling(&pound;).</p>
+<h2 class="blog-post-h2">Best time to visit Scotland</h2>
+<div>
+<ol class="blog-ol">
+<li><strong>Spring(March to May) and Autumn (September to November)</strong><br />During these months the weather is mild and less crowded. Visiting during these months is more preferable because this time allows you for a more enjoyable toure, exploring the castle and its surroundings without the large crowd.</li>
+<li><strong>Summers(June to August)</strong><br />The weather in summer is mild with average temperature ranging from 12 Celsius to 20 Celsius. This season is a super crowded and popular time for tourists to visit. Summers offers longer daylight hours, providing more time to explore the place and its surroundings.</li>
+<li><strong>Winters(December to February)</strong><br /> The weather is cold in winters with average temperature averaging between 1 Celsius to 6 Celsius. The castle is less crowded as compared to the summer weather. Some parts may be fully accessible due to weather conditions. The days are shorter in winter with fewer daylight hours.</li>
+</ol>
+</div>
+<h2 class="blog-post-h2">Souvenirs to buy</h2>
+<p>Scotland offers a wide range of unique and traditional souvenirs that reflect its rich cultural heritage and natural beauty. Click the image below to
+  discover some of the best items you can take home from your visit.:</p>
+<p><a href="https://amzn.to/4fRfnoz" target="_blank" rel="noopener"><img class="blog-post-img m-auto d-block" style="object-position: center;" src="https://images.pexels.com/photos/30085177/pexels-photo-30085177/free-photo-of-atmospheric-night-scene-at-budapest-christmas-market.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Norway Shopping Market." width="100%" height="357" /></a></p>
+<p>Did this blog excite you? Explore our low-cost flight and hotel options to book a flight <a href="/">(Search Hotels and Flights)</a> and add this marvel to your completed Wonder of the World bucket list. Leave a comment below, ask a question, or share your excitement with others. Your Scottish adventure awaits!</p>
